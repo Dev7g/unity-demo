@@ -1,3 +1,4 @@
 # unity-demo
-demo repository
-author - Dev Gupta
+demo repository (learning)
+
+Author - Dev Gupta
